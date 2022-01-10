@@ -1,9 +1,9 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/lanlords/discord/badge)](https://www.codefactor.io/repository/github/lanlords/discord)
+[![CodeFactor](https://www.codefactor.io/repository/github/steamcmd/discord/badge)](https://www.codefactor.io/repository/github/steamcmd/discord)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-# Lanlords Discord Page
+# SteamCMD Discord Page
 
-Landing page for Lanlords Discord server. Shows current online users and contains direct Join link.
+Landing page for SteamCMD Discord server. Shows current online users and contains direct Join link.
 
 ## Development
 

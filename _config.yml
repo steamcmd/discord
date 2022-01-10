@@ -1,10 +1,10 @@
 # global
-url: https://discord.lanlords.nl
-title: Lanlords Discord
-github: https://github.com/lanlords/discord
+url: https://discord.steamcmd.net
+title: SteamCMD Discord
+github: https://github.com/steamcmd/discord
 
 # env specific
-api_url: https://discordapp.com/api/guilds/351732061561946114/widget.json
+api_url: https://discord.com/api/guilds/928592378711912488/widget.json
 vue_url: https://cdn.jsdelivr.net/npm/vue
 
 # build
