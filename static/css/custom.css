@@ -1,12 +1,10 @@
-/* -- imports -- */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic);
-
 /* -- general -- */
+
 html, body {
   height: 100%;
   color: #333447;
   background-color: #f5f5f5;
-  font-family: 'Lato', Helvetica, sans-serif;
+  font-family: "Inter", serif;
   line-height: 1.5;
   font-size: 16px !important;
 }
